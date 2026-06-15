@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Reach Analysis",
+  "description": "An interactive data analytics platform to analyze, visualize, and predict social media reach, powered by Gemini AI smart insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
